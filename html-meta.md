@@ -151,6 +151,6 @@ See: [Icons](https://developers.google.com/web/fundamentals/design-and-ui/browse
 ## Reference
 {: .-one-column}
 
- * <https://dev.twitter.com/docs/cards>
+ * <https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started>
  * <https://developers.facebook.com/docs/opengraphprotocol/#types>
 {: .-also-see}
